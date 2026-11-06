@@ -1,0 +1,6 @@
+Contrast multiplier: 1.08
+Brightness offset: +8
+Mean brightness before: 126.35
+Mean brightness after: 143.97
+Brightness std before: 62.47
+Brightness std after: 67.46
